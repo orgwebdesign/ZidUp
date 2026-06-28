@@ -48,6 +48,7 @@ export function Features() {
                 <a href="https://wa.me/212656268002" target="_blank" rel="noreferrer" className="text-white font-semibold hover:underline inline-flex items-center gap-1 relative z-10">
                   {t("features.messageUs")} <span className="text-xl leading-none">&rsaquo;</span>
                 </a>
+              </div>
 
               {/* Card 03 */}
               <div className="p-8 lg:p-12 lg:ps-10 bg-surface-2 lg:bg-transparent rounded-3xl lg:rounded-none border border-white/5 lg:border-none">
